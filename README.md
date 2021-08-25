@@ -2,6 +2,10 @@ The original Blog post from MVP Goran Vuksic is very useful for setting up the L
 
 Perceptmobile: [Azure Percept Obstacle Avoidance LEGO Car - Hackster.io](https://www.hackster.io/gvuksic/perceptmobile-azure-percept-obstacle-avoidance-lego-car-1cde4f)
 
+You also need:
+https://github.com/codess-aus/lego-boost-app
+
+
 Backend:
 
 npm install
